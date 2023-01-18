@@ -69,7 +69,7 @@
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         </state>
                                         <connections>
-                                            <action selector="convert:" destination="BYZ-38-t0r" eventType="touchUpInside" id="TIK-i4-YX8"/>
+                                            <action selector="convert:" destination="BYZ-38-t0r" eventType="touchUpInside" id="q4n-nC-O0w"/>
                                         </connections>
                                     </button>
                                 </subviews>
